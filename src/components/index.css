@@ -1,0 +1,29 @@
+.watch{
+    background-image: url(cinema.jpg);
+    height:400px;
+    
+}
+
+.watch1{
+    margin-left: 40px;
+    text-align: left;
+    color: white;
+    padding-top: 100px;
+    font-size: 40px;
+}
+
+.test{
+    background-color: darkgray;
+    height: 100px;
+}
+
+.btn1{
+    margin-top:30px;
+    margin-left:30px;
+    width:150px;
+    height:40px;
+    font-size:25px;
+    color:white;
+    background-color: darkgrey;
+
+}
